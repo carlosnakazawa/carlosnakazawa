@@ -1,0 +1,60 @@
+# Hi, I'm Carlos Nakazawa
+
+**Technology leader & software engineer · Co-founder & CTO of BoletoFlex (acquired by Open Co) · Florianópolis, Brazil**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosnakazawa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosnakazawa/)
+[![X](https://img.shields.io/badge/X-@carlosnakazawa-000000?logo=x&logoColor=white)](https://x.com/carlosnakazawa)
+
+I've been building software for more than 20 years and leading technology for the last 9 as a founder and CTO. I co-founded **BoletoFlex**, a buy now, pay later (BNPL) solution for Brazilian e-commerce, and led its technology until it was **acquired by Open Co in 2023**.
+
+At Open Co, as Technology Director, I was one of the people responsible for **launching BNPL on Amazon Brazil** with **GeruPay**. With my team, I also ran and maintained projects with merchants and platforms such as **CVC, Mobly, Leroy Merlin, VTEX, Positivo, Pichau and Multilaser**.
+
+Before fintech, I built software for public safety, digital TV, medical imaging, government and startup innovation programs. These days I publish my side projects here.
+
+## Experience
+
+| Period | Company | Role | Highlights |
+| --- | --- | --- | --- |
+| 2023 – present | **Open Co** | Technology Director | Launched BNPL on Amazon Brazil (GeruPay); led projects with CVC, Mobly, Leroy Merlin, VTEX, Positivo, Pichau, Multilaser and others |
+| 2018 – 2023 | **BoletoFlex** | Co-founder & CTO | Built a BNPL solution for Brazilian e-commerce; acquired by Open Co in 2023 |
+| 2017 – 2018 | **Vality** | Co-founder & CTO | Digital identity startup; the same team evolved the idea into BoletoFlex |
+| 2013 – 2018 | **Sinapse da Inovação** (Santa Catarina State Government) | Developer | Developed the platform behind the state's innovation and startup program |
+| 2010 – 2017 | **CIASC** | Systems Analyst (public servant) | Technology company of the Santa Catarina state government |
+| 2008 – 2009 | **Fundação CERTI** | Systems Analyst | Brazilian Digital TV rollout project with major consumer electronics manufacturers |
+| 2004 – 2007 | **Dígitro Tecnologia** | Systems Analyst | Implemented the whole backend of **Guardião**, Dígitro's flagship public safety product, deployed across Brazil |
+| 2003 – 2004 | **WBSA Sistemas Inteligentes** (later part of Pixeon) | Programmer | Medical imaging software |
+
+**Education:** BSc in Computer Science, Universidade Federal de Santa Catarina (UFSC)
+
+## What I work with
+
+- **Languages:** Java · Python · Go · C++
+- **Cloud & DevOps:** AWS · GCP · Kubernetes · Docker · CI/CD pipelines · shell scripting
+- **Leadership:** building and leading engineering teams, technology strategy, taking a startup from idea to acquisition
+- **Domains:** fintech, BNPL, credit and payments, e-commerce and marketplace integrations, public safety, government
+
+## Open source
+
+- [**windows-health-and-update**](https://github.com/carlosnakazawa/windows-health-and-update): a version-aware, non-destructive Windows maintenance toolkit in PowerShell (CI on Windows Server 2022/2025, PowerShell 5.1 and 7, docs in 10 languages)
+- [**gphotos-smart-backup**](https://github.com/carlosnakazawa/gphotos-smart-backup): incremental backup of Windows photos and videos to Google Photos with rclone and H.265 compression
+
+## Let's talk
+
+I'm open to conversations about **technology leadership roles** and hard engineering problems, in fintech, e-commerce or beyond. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
+
+<details>
+<summary><b>Em português</b></summary>
+
+<br>
+
+Desenvolvo software há mais de 20 anos e lidero tecnologia há 9, como fundador e CTO. Fui um dos fundadores da **BoletoFlex**, solução de BNPL (compre agora, pague depois) para e-commerces brasileiros, e liderei a tecnologia da empresa até a **venda para a Open Co em 2023**.
+
+Na Open Co, como Diretor de Tecnologia, fui um dos responsáveis pela **implantação do BNPL na Amazon Brasil** com o **GeruPay**. Com o meu time, também conduzi e mantive projetos com **CVC, Mobly, Leroy Merlin, VTEX, Positivo, Pichau, Multilaser**, entre outros.
+
+A BoletoFlex nasceu da **Vality**, uma startup de identidade digital que fundei com o mesmo time em 2017. Antes disso, fui analista de sistemas concursado do **CIASC** e desenvolvi a plataforma do **Sinapse da Inovação** (Governo de SC). Na **Fundação CERTI**, participei da implantação da TV Digital brasileira com grandes fabricantes de eletrônicos. Na **Dígitro**, implementei todo o backend do **Guardião**, o principal produto de segurança pública da empresa, usado em todo o país. Comecei na **WBSA**, empresa que deu origem à **Pixeon**, trabalhando com imagens médicas.
+
+Bacharel em Ciências da Computação pela **UFSC**. Gosto de Java, Python, Go e C++, e trabalho com AWS, GCP, Kubernetes, Docker e pipelines de CI/CD.
+
+Estou aberto a conversas sobre **liderança de tecnologia** e problemas difíceis de engenharia, em fintech, e-commerce ou outras áreas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
+
+</details>
