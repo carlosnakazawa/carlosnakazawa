@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Nakazawa
 
-**Technology leader & software engineer · Co-founder & CTO of BoletoFlex (acquired by Open Co) · Florianópolis, Brazil**
+**Technology leader & software engineer · AI enthusiast · Co-founder & CTO of BoletoFlex (acquired by Open Co) · Florianópolis, Brazil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosnakazawa-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosnakazawa/)
 [![X](https://img.shields.io/badge/X-@carlosnakazawa-000000?logo=x&logoColor=white)](https://x.com/carlosnakazawa)
@@ -9,7 +9,9 @@ I've been building software for more than 20 years and leading technology for th
 
 At Open Co, as Technology Director, I was one of the people responsible for **launching BNPL on Amazon Brazil** with **GeruPay**. With my team, I also ran and maintained projects with merchants and platforms such as **CVC, Mobly, Leroy Merlin, VTEX, Positivo, Pichau and Multilaser**.
 
-Before fintech, I built software for public safety, digital TV, medical imaging, government and startup innovation programs. These days I publish my side projects here.
+Before fintech, I built software for public safety, digital TV, medical imaging, government and startup innovation programs.
+
+**Artificial intelligence is what I study the most these days**, and I'm a big fan of the field. My side projects, published here, are where I put it into practice.
 
 ## Experience
 
@@ -28,7 +30,10 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 
 ## What I work with
 
+- **Artificial intelligence:** the field I study the most and am most excited about
 - **Languages:** Java · Python · Go · C++
+- **Frameworks:** Quarkus · Grails
+- **Databases:** relational and NoSQL
 - **Cloud & DevOps:** AWS · GCP · Kubernetes · Docker · CI/CD pipelines · shell scripting
 - **Leadership:** building and leading engineering teams, technology strategy, taking a startup from idea to acquisition
 - **Domains:** fintech, BNPL, credit and payments, e-commerce and marketplace integrations, public safety, government
@@ -40,7 +45,7 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 
 ## Let's talk
 
-I'm open to conversations about **technology leadership roles** and hard engineering problems, in fintech, e-commerce or beyond. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
+I'm open to conversations about **technology leadership roles**, AI and hard engineering problems, in fintech, e-commerce or beyond. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
 
 <details>
 <summary><b>Em português</b></summary>
@@ -53,8 +58,10 @@ Na Open Co, como Diretor de Tecnologia, fui um dos responsáveis pela **implanta
 
 A BoletoFlex nasceu da **Vality**, uma startup de identidade digital que fundei com o mesmo time em 2017. Antes disso, fui analista de sistemas concursado do **CIASC** e desenvolvi a plataforma do **Sinapse da Inovação** (Governo de SC). Na **Fundação CERTI**, participei da implantação da TV Digital brasileira com grandes fabricantes de eletrônicos. Na **Dígitro**, implementei todo o backend do **Guardião**, o principal produto de segurança pública da empresa, usado em todo o país. Comecei na **WBSA**, empresa que deu origem à **Pixeon**, trabalhando com imagens médicas.
 
-Bacharel em Ciências da Computação pela **UFSC**. Gosto de Java, Python, Go e C++, e trabalho com AWS, GCP, Kubernetes, Docker e pipelines de CI/CD.
+**Inteligência artificial é o que mais estudo hoje**, e sou muito fã da área. Meus projetos pessoais, publicados aqui, são onde coloco isso em prática.
 
-Estou aberto a conversas sobre **liderança de tecnologia** e problemas difíceis de engenharia, em fintech, e-commerce ou outras áreas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
+Bacharel em Ciências da Computação pela **UFSC**. Gosto de Java, Python, Go e C++, dos frameworks Quarkus e Grails, e trabalho com bancos de dados relacionais e não relacionais, AWS, GCP, Kubernetes, Docker e pipelines de CI/CD.
+
+Estou aberto a conversas sobre **liderança de tecnologia**, IA e problemas difíceis de engenharia, em fintech, e-commerce ou outras áreas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
 
 </details>
