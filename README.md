@@ -11,7 +11,7 @@ At Open Co, as Technology Director, I was one of the people responsible for **la
 
 Before fintech, I built software for public safety, digital TV, medical imaging, government and startup innovation programs.
 
-**Artificial intelligence is what I study the most these days**, and I'm a big fan of the field. My side projects, published here, are where I put it into practice.
+**Artificial intelligence is what I study the most these days**, and I'm a big fan of the field. My side projects, published here, are where I put it into practice, building software with AI coding agents under explicit engineering guardrails.
 
 ## Experience
 
@@ -33,12 +33,14 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 - **Artificial intelligence:** the field I study the most and am most excited about
 - **Languages:** Java · Python · Go · C++
 - **Frameworks:** Quarkus · Grails
-- **Databases:** relational and NoSQL
+- **Databases:** PostgreSQL · MySQL · MongoDB · Redis · DynamoDB · Firestore
 - **Cloud & DevOps:** AWS · GCP · Kubernetes · Docker · CI/CD pipelines · shell scripting
 - **Leadership:** building and leading engineering teams, technology strategy, taking a startup from idea to acquisition
 - **Domains:** fintech, BNPL, credit and payments, e-commerce and marketplace integrations, public safety, government
 
 ## Open source
+
+Both projects are built with AI coding agents (Claude Code) working under explicit guardrails: an `AGENTS.md` with security and compatibility rules, automated tests and CI that every change must pass.
 
 - [**windows-health-and-update**](https://github.com/carlosnakazawa/windows-health-and-update): a version-aware, non-destructive Windows maintenance toolkit in PowerShell (CI on Windows Server 2022/2025, PowerShell 5.1 and 7, docs in 10 languages)
 - [**gphotos-smart-backup**](https://github.com/carlosnakazawa/gphotos-smart-backup): incremental backup of Windows photos and videos to Google Photos with rclone and H.265 compression
@@ -58,9 +60,9 @@ Na Open Co, como Diretor de Tecnologia, fui um dos responsáveis pela **implanta
 
 A BoletoFlex nasceu da **Vality**, uma startup de identidade digital que fundei com o mesmo time em 2017. Antes disso, fui analista de sistemas concursado do **CIASC** e desenvolvi a plataforma do **Sinapse da Inovação** (Governo de SC). Na **Fundação CERTI**, participei da implantação da TV Digital brasileira com grandes fabricantes de eletrônicos. Na **Dígitro**, implementei todo o backend do **Guardião**, o principal produto de segurança pública da empresa, usado em todo o país. Comecei na **WBSA**, empresa que deu origem à **Pixeon**, trabalhando com imagens médicas.
 
-**Inteligência artificial é o que mais estudo hoje**, e sou muito fã da área. Meus projetos pessoais, publicados aqui, são onde coloco isso em prática.
+**Inteligência artificial é o que mais estudo hoje**, e sou muito fã da área. Meus projetos pessoais, publicados aqui, são onde coloco isso em prática, desenvolvendo com agentes de IA sob regras de engenharia explícitas.
 
-Bacharel em Ciências da Computação pela **UFSC**. Gosto de Java, Python, Go e C++, dos frameworks Quarkus e Grails, e trabalho com bancos de dados relacionais e não relacionais, AWS, GCP, Kubernetes, Docker e pipelines de CI/CD.
+Bacharel em Ciências da Computação pela **UFSC**. Gosto de Java, Python, Go e C++, dos frameworks Quarkus e Grails, e trabalho com PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Firestore, AWS, GCP, Kubernetes, Docker e pipelines de CI/CD.
 
 Estou aberto a conversas sobre **liderança de tecnologia**, IA e problemas difíceis de engenharia, em fintech, e-commerce ou outras áreas. Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/carlosnakazawa/).
 
