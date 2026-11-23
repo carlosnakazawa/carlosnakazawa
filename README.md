@@ -24,6 +24,7 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 | 2010 – 2017 | **CIASC** | Systems Analyst (public servant) | Technology company of the Santa Catarina state government |
 | 2008 – 2009 | **Fundação CERTI** | Systems Analyst | Brazilian Digital TV rollout project with major consumer electronics manufacturers |
 | 2004 – 2007 | **Dígitro Tecnologia** | Systems Analyst | Implemented the whole backend of **Guardião**, Dígitro's flagship public safety product, deployed across Brazil |
+| 2004 - 2004 | **Canadas** | Programmer | Georeferencing system for municipal governments |
 | 2003 – 2004 | **WBSA Sistemas Inteligentes**  | Programmer | Intelligence for Governments |
 | 2002 - 2003 | **EGF** (later part of Pixeon) | Programmer | Medical imaging software |
 
