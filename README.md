@@ -24,7 +24,8 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 | 2010 – 2017 | **CIASC** | Systems Analyst (public servant) | Technology company of the Santa Catarina state government |
 | 2008 – 2009 | **Fundação CERTI** | Systems Analyst | Brazilian Digital TV rollout project with major consumer electronics manufacturers |
 | 2004 – 2007 | **Dígitro Tecnologia** | Systems Analyst | Implemented the whole backend of **Guardião**, Dígitro's flagship public safety product, deployed across Brazil |
-| 2003 – 2004 | **WBSA Sistemas Inteligentes** (later part of Pixeon) | Programmer | Medical imaging software |
+| 2003 – 2004 | **WBSA Sistemas Inteligentes**  | Programmer | Intelligence for Governments |
+| 2002 - 2003 | **EGF** (later part of Pixeon) | Programmer | Medical imaging software |
 
 **Education:** BSc in Computer Science, Universidade Federal de Santa Catarina (UFSC)
 
@@ -58,7 +59,7 @@ Desenvolvo software há mais de 20 anos e lidero tecnologia há 9, como fundador
 
 Na Open Co, como Diretor de Tecnologia, fui um dos responsáveis pela **implantação do BNPL na Amazon Brasil** com o **GeruPay**. Com o meu time, também conduzi e mantive projetos com **CVC, Mobly, Leroy Merlin, VTEX, Positivo, Pichau, Multilaser**, entre outros.
 
-A BoletoFlex nasceu da **Vality**, uma startup de identidade digital que fundei com o mesmo time em 2017. Antes disso, fui analista de sistemas concursado do **CIASC** e desenvolvi a plataforma do **Sinapse da Inovação** (Governo de SC). Na **Fundação CERTI**, participei da implantação da TV Digital brasileira com grandes fabricantes de eletrônicos. Na **Dígitro**, implementei todo o backend do **Guardião**, o principal produto de segurança pública da empresa, usado em todo o país. Comecei na **WBSA**, empresa que deu origem à **Pixeon**, trabalhando com imagens médicas.
+A BoletoFlex nasceu da **Vality**, uma startup de identidade digital que fundei com o mesmo time em 2017. Antes disso, fui analista de sistemas concursado do **CIASC** e desenvolvi a plataforma do **Sinapse da Inovação** (Governo de SC). Na **Fundação CERTI**, participei da implantação da TV Digital brasileira com grandes fabricantes de eletrônicos. Na **Dígitro**, implementei todo o backend do **Guardião**, o principal produto de segurança pública da empresa, usado em todo o país. Comecei na **EGF**, empresa que deu origem à **Pixeon**, trabalhando com imagens médicas.
 
 **Inteligência artificial é o que mais estudo hoje**, e sou muito fã da área. Meus projetos pessoais, publicados aqui, são onde coloco isso em prática, desenvolvendo com agentes de IA sob regras de engenharia explícitas.
 
