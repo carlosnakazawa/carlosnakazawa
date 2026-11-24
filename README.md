@@ -26,7 +26,7 @@ Before fintech, I built software for public safety, digital TV, medical imaging,
 | 2004 – 2007 | **Dígitro Tecnologia** | Systems Analyst | Implemented the whole backend of **Guardião**, Dígitro's flagship public safety product, deployed across Brazil |
 | 2004 | **Canadas** | Programmer | Georeferencing system for municipal governments |
 | 2003 – 2004 | **WBSA Sistemas Inteligentes** | Programmer | Intelligent systems for government |
-| 2002 – 2003 | **EGF** (later part of Pixeon) | Programmer | Medical imaging software |
+| 2001 – 2003 | **EGF** (later part of Pixeon) | Programmer | Medical imaging software |
 
 **Education:** BSc in Computer Science, Universidade Federal de Santa Catarina (UFSC)
 
